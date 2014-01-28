@@ -1,0 +1,8 @@
+Liz
+Daroa
+Rebecca
+Tyler
+Jason
+
+
+Use git in order of commands "edit," "add," and "commit."
