@@ -3,6 +3,11 @@ Daroa
 Rebecca
 Tyler
 Jason
+Tara
+Petra
+Amrisha
+Amrita
+
 
 
 Use git in order of commands "edit," "add," and "commit."
